@@ -1,0 +1,13 @@
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\bin\Debug\netcoreapp3.1\lv4_analiza.exe
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\bin\Debug\netcoreapp3.1\lv4_analiza.deps.json
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\bin\Debug\netcoreapp3.1\lv4_analiza.runtimeconfig.json
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\bin\Debug\netcoreapp3.1\lv4_analiza.runtimeconfig.dev.json
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\bin\Debug\netcoreapp3.1\lv4_analiza.dll
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\bin\Debug\netcoreapp3.1\lv4_analiza.pdb
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\obj\Debug\netcoreapp3.1\lv4_analiza.csprojAssemblyReference.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\obj\Debug\netcoreapp3.1\lv4_analiza.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\obj\Debug\netcoreapp3.1\lv4_analiza.AssemblyInfoInputs.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\obj\Debug\netcoreapp3.1\lv4_analiza.AssemblyInfo.cs
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\obj\Debug\netcoreapp3.1\lv4_analiza.dll
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\obj\Debug\netcoreapp3.1\lv4_analiza.pdb
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv4analiza\lv4_analiza\obj\Debug\netcoreapp3.1\lv4_analiza.genruntimeconfig.cache
